@@ -1,7 +1,7 @@
 # reply-2024
 Reply Code Challenge 2024 - Standard Edition
 
-### Installation Guide
+### Installation
 Make sure that you have Python and Poetry installed on your machine.
 ```
 pip install poetry
